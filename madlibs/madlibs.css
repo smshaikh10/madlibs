@@ -1,0 +1,14 @@
+body{
+    background-color: #bfbfbf;
+}
+
+#heading{
+    text-align: center;
+    font-size: 4em;
+}
+
+.container{
+    display: flex;
+    margin-left: 8%;
+    margin-right: 8%;
+}
